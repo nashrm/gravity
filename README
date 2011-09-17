@@ -1,0 +1,11 @@
+The purpose of this project is to create a functional gravity
+calculator.  At the very least it should be an exercise which will
+provide a basic terminal type interface to the user to calculate the
+amount of time it will take an object to fall.
+
+Main objectives: 
+
+Collect information from a user through a text prompt.  Accurately
+perform calculations of and present results of an object accellerated
+due to gravitational forces assuming them to be as obsered on the
+earth's surface.

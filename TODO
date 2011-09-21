@@ -1,0 +1,14 @@
+**Determine your formulas to use.. ala position as a function of time
+   based upon gravitational excelleration, amount of time required to
+   reach certain distances.  Consider if you want to include a
+   terminal velocity or initial velocity cases.
+   
+**Get a list of unit conversion ratios to build in -- 
+
+**Gravity will be assumed to work along one axis only and we will
+   consider 2D cases only
+
+**Ideally we should have a set of operations we can run which will
+   answer questions like the following.... 
+***how long will it take to fall 500ft?
+***how far will a ball travel if we throw it such a way?
